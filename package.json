@@ -1,6 +1,6 @@
 {
   "name": "calculate-luhn-mod-radix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Calculates Luhn Mod N check values where 2 <= n <= 36",
   "main": "index.js",
   "scripts": {
