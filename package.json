@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/alfredmyers/calculate-luhn-mod-radix#readme",
   "devDependencies": {
-    "jest": "^27.0.5"
+    "jest": "^27.5.1"
   },
   "dependencies": {
     "calculate-luhn-mod-n": "^2.0.9"
